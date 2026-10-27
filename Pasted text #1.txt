@@ -1,0 +1,1826 @@
+
+
+
+
+
+
+
+
+
+
+
+
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+
+
+ 
+  
+ 
+
+
+
+
+ 
+  Normal
+  0
+  false
+  
+  21
+  
+  
+  false
+  false
+  false
+  
+  FR
+  X-NONE
+  X-NONE
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+
+
+
+
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tableau Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+table.MsoTableGrid
+	{mso-style-name:"Grille du tableau";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-priority:39;
+	mso-style-unhide:no;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+
+
+
+
+
+
+
+
+
+Hackathon, team 32&nbsp;: JIN
+
+Informations sur le Crédit Mutuel
+
+
+ 
+  
+  1. Le
+  Crédit Mutuel : présentation générale
+  Le Crédit
+  Mutuel est l'un des principaux groupes bancaires français. Sa particularité
+  est son modèle mutualiste et coopératif : la banque appartient à ses
+  clients sociétaires et non à des actionnaires cotés en bourse. [creditmutuel.fr],
+  [moneyvox.fr]
+  Quelques
+  caractéristiques clés
+  
+   Plus de 38 millions de clients.
+   Plus de 4 000 points de vente en
+       France.
+   Organisation décentralisée autour
+       de caisses locales et de fédérations régionales.
+   Activités couvrant la banque,
+       l'assurance, le crédit, les paiements, la gestion d'actifs et les
+       services digitaux. [creditmutuel.com],
+       [creditmutuel.fr]
+  
+  Principales
+  filiales
+  Le groupe
+  s'appuie notamment sur :
+  
+   CIC
+   Cofidis
+   Monabanq
+   BECM (entreprises et immobilier)
+   Assurances du Crédit Mutuel [creditmutuel.fr]
+  
+  Positionnement
+  Le Crédit
+  Mutuel cherche à combiner :
+  
+   proximité via le réseau d'agences
+       ;
+   autonomie locale dans la prise de
+       décision ;
+   forte digitalisation ;
+   modèle relationnel avec
+       conseiller dédié. [creditmutuel.fr],
+       [creditmutuel.com]
+  
+  
+  
+  
+  2. Le
+  secteur bancaire en France
+  Le marché
+  français est dominé par quelques grands groupes représentant plus de 80 % de
+  l'activité bancaire :
+  
+   BNP Paribas
+   Crédit Agricole
+   BPCE (Banque Populaire + Caisse
+       d'Épargne)
+   Société Générale
+   Crédit Mutuel
+   La Banque Postale [esgf.com],
+       [esgf.com]
+  
+  Trois
+  grands modèles coexistent
+  Banques
+  mutualistes
+  
+   Crédit Mutuel
+   Crédit Agricole
+   Banque Populaire
+   Caisse d'Épargne
+  
+  Elles
+  appartiennent à leurs sociétaires. [moneyvox.fr]
+  Banques
+  commerciales cotées
+  
+   BNP Paribas
+   Société Générale
+   HSBC France
+  
+  Banques
+  digitales et néobanques
+  
+   BoursoBank
+   Fortuneo
+   Hello bank!
+   Monabanq
+   Revolut
+   N26
+  
+  [moneyvox.fr], [meilleure-...ancaire.fr]
+  
+  
+  
+  3. Les
+  produits et services proposés par le Crédit Mutuel
+  Banque du
+  quotidien
+  
+   Compte courant
+   Cartes bancaires
+   Chéquiers
+   Virements
+   Paiements mobiles
+   Services internationaux [creditmutuel.fr]
+  
+  Épargne
+  
+   Livret A
+   LDDS
+   LEP
+   Assurance-vie
+   PEA
+   Comptes à terme
+   Épargne retraite
+  
+  Crédit
+  
+   Crédit immobilier
+   Crédit consommation
+   Crédit automobile
+   Prêt étudiant
+   Regroupement de crédits (via
+       Créatis) [creditmutuel.fr],
+       [creditmutuel.fr]
+  
+  Assurance
+  
+   Habitation
+   Auto
+   Santé
+   Prévoyance
+   Assurance emprunteur
+   Multirisque professionnelle
+  
+  Services
+  complémentaires
+  Le Crédit
+  Mutuel se distingue historiquement par sa diversification :
+  
+   Téléphonie mobile
+   Box Internet
+   Systèmes de paiement
+   Télésurveillance (Homiris) [creditmutuel.fr],
+       [creditmutuel.fr],
+       [creditmutuel.fr]
+  
+  
+  
+  
+  4.
+  Comparaison avec les principaux concurrents
+  
+   
+    
+    Banque
+    
+    
+    Forces
+    principales
+    
+   
+   
+    
+    Crédit Mutuel
+    
+    
+    Relation client, modèle mutualiste, assurance, crédit
+    
+   
+   
+    
+    Crédit Agricole
+    
+    
+    Couverture territoriale exceptionnelle
+    
+   
+   
+    
+    BNP Paribas
+    
+    
+    International, entreprises, banque privée
+    
+   
+   
+    
+    Société Générale
+    
+    
+    Entreprises, innovation financière
+    
+   
+   
+    
+    BPCE
+    
+    
+    Forte implantation régionale
+    
+   
+   
+    
+    La Banque Postale
+    
+    
+    Accessibilité et clientèle grand public
+    
+   
+   
+    
+    BoursoBank
+    
+    
+    Prix bas et expérience digitale
+    
+   
+   
+    
+    Monabanq
+    
+    
+    Service client et simplicité
+    
+   
+   
+    
+    Revolut
+    
+    
+    International, paiements, expérience mobile
+    
+   
+  
+  Sources : [moneyvox.fr], [meilleure-...ancaire.fr],
+  [esgf.com]
+  
+  
+  
+  5. L'accès
+  au crédit en France
+  Le crédit
+  reste relativement accessible en France, mais il est fortement encadré.
+  Crédit
+  immobilier
+  Les banques
+  doivent respecter les règles du HCSF :
+  Taux
+  d'endettement
+  Le taux
+  d'effort ne doit généralement pas dépasser 35 % des revenus. [economie.gouv.fr]
+  Durée
+  maximale
+  La durée du
+  prêt est généralement limitée à 25 ans, avec certaines exceptions. [economie.gouv.fr]
+  Dérogations
+  Les banques
+  disposent d'une marge de flexibilité pour environ 20 % de leur production de
+  crédits. [economie.gouv.fr]
+  Critères
+  étudiés
+  Les banques
+  analysent notamment :
+  
+   revenus
+   stabilité professionnelle
+   apport personnel
+   reste à vivre
+   historique bancaire
+   niveau d'endettement
+  
+  
+  
+  
+  6. Les
+  tendances digitales du secteur bancaire
+  Le marché
+  français évolue rapidement vers un modèle hybride : agence + digital.
+  Attentes
+  des clients
+  Aujourd'hui
+  les clients souhaitent :
+  
+   ouverture de compte rapide ;
+   signature électronique ;
+   souscription de crédit en ligne ;
+   agrégation de comptes ;
+   alertes en temps réel ;
+   paiement mobile ;
+   chatbot et assistance digitale. [dailydigital.fr],
+       [moneyvox.fr]
+  
+  Position
+  du Crédit Mutuel
+  Le Crédit
+  Mutuel investit fortement dans :
+  
+   son application mobile ;
+   la gestion à distance ;
+   les paiements digitaux ;
+   la cybersécurité ;
+   l'intelligence artificielle pour
+       l'assistance client. [creditmutuel.fr],
+       [creditmutuel.fr]
+  
+  Concurrence
+  digitale
+  Les
+  références du marché digital français sont :
+  
+   BoursoBank
+   Fortuneo
+   Monabanq
+   Hello bank!
+   Revolut
+  
+  qui misent
+  sur des frais réduits et un parcours client entièrement numérique. [moneyvox.fr], [meilleure-...ancaire.fr]
+  
+  
+  
+  7. Ce
+  qu'il faut retenir sur le Crédit Mutuel
+  Forces
+  
+   Modèle mutualiste différenciant.
+   Forte présence locale.
+   Décision de crédit proche du
+       terrain.
+   Offre très complète (banque,
+       assurance, crédit, télécom).
+   Bonne image auprès des
+       particuliers. [creditmutuel.fr],
+       [creditmutuel.com]
+  
+  Défis
+  
+   Faire face aux banques 100 %
+       digitales.
+   Accélérer encore
+       l'automatisation des parcours clients.
+   Répondre aux nouvelles attentes
+       de simplicité et d'instantanéité des jeunes générations.
+  
+  &nbsp;
+  
+ 
+
+
+&nbsp;
+
+
+
+&nbsp;
+
+Imaginez un produit ou service qui rende les services bancaires et
+financiers plus accessibles et inclusifs
+
+&nbsp;
+
+v
+Éducation financière et budgétaire
+
+Ø&nbsp;
+Les familles défavorisées ont plus souvent des
+difficultés à gérer leur argent, à faire des placements, à investir 
+
+Ø&nbsp;
+Les jeunes à
+en général, ne savent pas gérer les budgets 
+
+Ø&nbsp;
+Où va l’épargne&nbsp;? 
+
+Ø&nbsp;
+Comment l’État gère nos impôts&nbsp;? 
+
+Ø&nbsp;
+Comment fonctionne le système bancaire&nbsp;? 
+
+Ø&nbsp; Traduction
+pour personnes qui ne savent pas lire le français ou audio, vidéo
+
+Ø&nbsp;
+Séminaires d’éducation financière à des certifications de
+compétences depuis l’application à cours
+en ligne gratuits, facile d’accès et validation des skills à vérification sécurisée
+à Éducation
+budgétaire jeunes adultes - Crédit Mutuel 
+
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+…
+
+&nbsp;
+
+v
+Accompagnement des séniors
+
+Ø&nbsp;
+Gérer leur épargne retraite
+
+Ø&nbsp;
+Vieillissement de la population&nbsp;: + de
+sénior – d’actifs … 
+
+&nbsp;
+
+v
+Accès au crédit
+
+Ø&nbsp;
+Pas assez d’accès è
+ex&nbsp;: US à
+tout le monde à le droit au crédit à
+prise de risque plus commune vs France à
+Peur, …  
+
+Ø&nbsp;
+Comment le rembourser&nbsp;? à Aide à l’accès à
+l’emploi à
+avec 
+
+Ø&nbsp;
+Anticiper son prêt, encourager à le prendre plus
+tôt (prêt lycéen)
+
+Ø&nbsp;
+Prêt sénior à
+accès à une maison de retraite 
+
+Ø&nbsp;
+Prêt sport 
+
+Ø&nbsp;
+Prêt santé
+
+&nbsp;
+
+v
+Inclusion sociale et territoriale (publics
+fragiles, zones rurales, étudiants, jeunes en situation précaire)
+
+Ø&nbsp;
+Moins de présence en campagne
+
+Ø&nbsp;
+Moins de connaissances du système bancaire
+
+&nbsp;
+
+v
+Accessibilité numérique 
+
+Ø&nbsp;
+Mots de passe appli bancaire 
+
+Ø&nbsp;
+Gestion appli pour les personnes âgées difficile
+
+
+
+&nbsp;
+
+
+
+&nbsp;
+
+Idée n°1&nbsp;
+
+à
+Traduction pour personnes qui ne savent pas lire le français ou audio, vidéo à Contact
+pour clients sourds et malentendants - Crédit Mutuel
+
+&nbsp;
+
+
+ 
+
+
+v
+Sous thèmes concernés&nbsp;: 
+
+-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Éducation financière et budgétaire
+
+-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Inclusion sociale et territoriale (publics
+fragiles, zones rurales, étudiants, jeunes en situation précaire)
+
+
+ 
+  
+  Problème
+  identifié
+  De nombreux
+  clients rencontrent des difficultés pour comprendre les documents bancaires :
+  
+   personnes ne maîtrisant pas le
+       français ;
+   personnes en situation
+       d'illettrisme ;
+   personnes âgées ;
+   personnes malvoyantes ;
+   personnes en situation de
+       handicap cognitif ;
+   nouveaux arrivants en France.
+  
+  Or les
+  contrats, conditions tarifaires ou offres de crédit sont souvent complexes.
+  
+  
+  
+  Idée de
+  projet : &quot;BankEasy&quot; ou &quot;Mon Conseiller Universel&quot;
+  Concept
+  Une
+  fonctionnalité intégrée à l'application bancaire permettant de transformer
+  instantanément n'importe quel contenu bancaire en un format compréhensible.
+  Entrées
+  possibles
+  
+   Document PDF
+   Courrier bancaire
+   E-mail
+   Contrat de prêt
+   Relevé bancaire
+   Offre commerciale
+   SMS bancaire
+   Contenu affiché dans
+       l'application
+  
+  Sorties
+  possibles
+  1.
+  Traduction multilingue
+  Exemple :
+  &quot;Votre
+  échéance de prêt sera prélevée le 5 novembre.&quot;
+  Traduit en :
+  
+   Arabe
+   Anglais
+   Espagnol
+   Portugais
+   Ukrainien
+   Turc
+  
+  
+  
+  
+  2.
+  Simplification du langage
+  Version
+  classique :
+  &quot;Le TAEG
+  inclut les frais de dossier et le coût de l'assurance emprunteur.&quot;
+  Version
+  simplifiée :
+  &quot;Le coût
+  total du crédit comprend aussi les frais d'ouverture du dossier et
+  l'assurance liée au prêt.&quot;
+  
+  
+  
+  3. Lecture
+  audio
+  L'utilisateur
+  clique sur :
+  &#127911;
+  &quot;Écouter ce document&quot;
+  L'IA lit le
+  document avec une voix naturelle.
+  
+  
+  
+  4.
+  Explication conversationnelle
+  L'utilisateur
+  peut demander :
+  
+   &quot;Qu'est-ce que le TAEG
+       ?&quot;
+   &quot;Combien vais-je payer par
+       mois ?&quot;
+   &quot;Quels sont les risques
+       ?&quot;
+  
+  L'assistant
+  répond en langage simple.
+  
+  
+  
+  5.
+  Explication vidéo
+  Génération
+  automatique d'une mini vidéo de 30 secondes.
+  Exemple :
+  &quot;Votre
+  prêt immobilier&quot;
+  
+   avatar virtuel
+   sous-titres
+   pictogrammes
+   langue choisie
+  
+  
+  
+  
+  Cas
+  d'usage Crédit Mutuel
+  Demande de
+  crédit immobilier
+  Le client
+  reçoit une offre de prêt.
+  L'IA lui
+  propose :
+  - Résumé en
+  une page
+  - Version
+  audio
+  - Traduction
+  -
+  Questions/Réponses
+  -
+  Vérification de compréhension
+  
+  
+  
+  Valeur
+  pour le Crédit Mutuel
+  Impact
+  social
+  
+   inclusion bancaire
+   accessibilité
+   lutte contre l'illettrisme
+   accompagnement des populations
+       fragiles
+  
+  Impact
+  business
+  
+   diminution des appels au service
+       client
+   moins d'incompréhensions sur les
+       produits
+   amélioration de la satisfaction
+       client
+   différenciation face aux banques
+       en ligne
+  
+  Impact
+  réglementaire
+  
+   meilleure compréhension du
+       consentement
+   traçabilité de l'information
+       donnée au client
+   renforcement de la relation de
+       confiance
+  
+  
+  
+  
+  Pitch
+  hackathon en 30 secondes
+  &quot;BankEasy
+  est un assistant IA inclusif qui transforme instantanément tout document
+  bancaire en une version compréhensible par tous : traduction multilingue,
+  lecture audio, résumé simplifié et explications interactives. Notre objectif
+  : rendre les services bancaires accessibles à chaque client, quel que soit
+  son niveau de langue ou de littératie.&quot;
+  Pourquoi
+  cette idée peut séduire un jury ?
+  - Répond à un
+  problème réel
+  - Forte utilité sociale
+  - Cas d'usage concret pour le Crédit Mutuel
+  - Facilement
+  démontrable avec l'IA générative
+  - Alignée avec les valeurs mutualistes du Crédit Mutuel : proximité, inclusion
+  et accessibilité.
+  
+ 
+
+
+&nbsp;
+
+
+
+Idée supplémentaire&nbsp;: Du mentorat par un conseiller
+
+
+
+&nbsp;
+
+Idée n°2 (idée gardée après sondage des autres groupes) à Nom du projet&nbsp;: Paiement
+JIN (= Juste, intelligent, nécessaire)
+
+CB
+éducative à TPE
+affiche « Cet achat est-il indispensable&nbsp;?&nbsp;», « Avez-vous dépensé
+pour vos les besoins essentiels (alimentation, …)&nbsp;» à bloquer la carte sur
+les achats oisifs / inutiles si en difficultés financières 
+
+Inventer un nouveau TPE 
+
+Site à où
+tu rentres tout tes biens, tes achats, etc à
+ le TPE affiche «&nbsp;Vous avez déjà [cet
+objet] depuis [telle date], en avez-vous réellement besoin d’un nouveau&nbsp;?
+Votre ancien [objet] est-il abimé&nbsp;?&nbsp;»
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+ à
+Pourquoi aussi peu d’information avant de payer è
+mettre un graphique camembert (représentant le budget alloué à chaque secteur
+de dépenses&nbsp;: alimentation, loisirs, …) intéractif qui se réduit au moment
+du paiement et se réagrandit lorsque le salaire est versé sur le compte ou
+quand de l’argent rentre à
+chaque mois à
+l’utilisateur doit établir son budget.   
+
+Idée n°3
+
+Ø&nbsp;
+Séminaires d’éducation financière dans les
+écoles et les entreprises  à des certifications de
+compétences depuis l’application pour ouvrir un compte épargne ou autre à cours en ligne
+gratuits, facile d’accès et validation des skills à vérification sécurisée à Éducation
+budgétaire jeunes adultes - Crédit Mutuel 
+
+ 
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+&nbsp;
+
+5 Forces de Porter
+
+
+ 
+
+
+Arbres à Problèmes
+
+
+ 
+
+ 
+ 
+
+
+
+ 
+
+
+&nbsp;
+
+Pestel
+
+Pitch
+
+Bonjour à tous,
+
+Aujourd'hui, payer est devenu un réflexe.
+
+Un sans-contact, un clic, un smartphone, et l'achat est
+effectué en quelques secondes.
+
+Pourtant, si les technologies ont considérablement simplifié
+le paiement, elles n'ont jamais aidé le consommateur à prendre une meilleure
+décision.
+
+Les banques vérifient notre solde.
+
+Les terminaux vérifient l'autorisation bancaire.
+
+Mais personne ne vérifie si cet achat est réellement
+pertinent pour notre situation.
+
+C'est de ce constat qu'est née notre idée :
+
+JIN SmartPayment.
+
+
+
+
+
+
+
+Personne 2
+
+JIN signifie :
+
+Juste • Intelligent • Nécessaire
+
+Notre ambition est simple :
+
+Transformer le terminal de paiement en un assistant
+financier intelligent capable d'accompagner le client au moment le plus
+important : celui où il prend sa décision d'achat. 
+
+
+
+à Pour ce faire, la CB
+éducative envoie les infos temporairement au TPE pour qu’il affiche
+l’information la plus pertinente pour le détenteur de la carte et du compte
+bancaire.  
+
+
+
+JIN SmartPayment n'est pas là pour juger, ni pour interdire.
+
+Il est là pour faire réfléchir quelques secondes avant une
+dépense potentiellement inutile.
+
+
+
+
+
+
+
+Personne 1
+
+Imaginons que vous souhaitiez acheter un nouveau casque
+audio.
+
+Au moment du paiement, la CB éducative envoie au TPE
+intelligent l’information qu’un consommateur affiche :
+
+« Vous possédez déjà un casque acheté il y a 18 mois. Votre
+équipement actuel est-il toujours fonctionnel ? »
+
+Ou encore :
+
+« Votre budget loisirs est déjà consommé à 95 % ce mois-ci.
+Souhaitez-vous poursuivre cet achat ? »
+
+L'utilisateur conserve toujours sa liberté de choix.
+
+Mais il bénéficie d'une information personnalisée qui l'aide
+à prendre une décision éclairée.
+
+
+
+
+
+
+
+Personne 2
+
+Grâce à l'intelligence artificielle et à un inventaire
+numérique personnel, JIN SmartPayment est capable :
+
+
+ d'identifier
+     des achats en doublon ;
+ d'analyser
+     les habitudes de consommation ;
+ de
+     détecter certains comportements impulsifs ;
+ d'encourager
+     une consommation plus durable ;
+ de
+     prévenir les difficultés financières avant qu'elles n'apparaissent.
+
+
+Le terminal devient alors bien plus qu'un simple outil de
+paiement.
+
+Il devient un véritable coach financier du quotidien.
+
+
+
+
+
+
+
+Personne 1
+
+Pour les clients, les bénéfices sont immédiats :
+
+moins d'achats impulsifs
+
+une meilleure gestion du budget
+
+davantage d'économies
+
+une consommation plus responsable
+
+plus de sérénité financière
+
+
+
+
+
+
+
+Personne 2
+
+Pour le Crédit Mutuel, JIN SmartPayment permet :
+
+de renforcer la relation de confiance avec ses clients
+
+de prévenir les situations de fragilité financière
+
+de se différencier des autres établissements bancaires
+
+d'incarner pleinement les valeurs mutualistes
+d'accompagnement et de responsabilité
+
+
+
+
+
+
+
+Conclusion
+
+Personne 1
+
+Aujourd'hui, les terminaux de paiement vérifient si nous
+pouvons payer.
+
+Personne 2
+
+Demain, grâce à JIN SmartPayment, ils nous aideront aussi à
+savoir si nous devrions payer.
+
+Les deux
+
+JIN SmartPayment : Juste, Intelligent, Nécessaire.
+
+Parce qu'un bon paiement n'est pas seulement un paiement
+autorisé. C'est avant tout une décision éclairée.
+
+Merci.
+
+&nbsp;
+
+Lean Canvas
+
+
+ 
+  
+  Problème
+  -PB1
+  -PB2
+  -PB3
+  &nbsp;
+  Alternatives
+  …
+  
+  
+  Solution
+  -S1
+  -S2
+  -S3
+  
+  
+  Proposition
+  de valeur
+  &nbsp;
+  
+  
+  Avantage
+  
+  
+  Segments clients
+  
+ 
+ 
+  
+  Indicateurs
+  
+  -I1
+  -I2
+  -I3
+  
+  
+  Canaux
+  
+ 
+ 
+  
+  Coûts 
+  -Coût1
+  -Coût2
+  -Coût3
+  
+  
+  Sources de
+  revenus
+  
+ 
+
+
+&nbsp;
+
+
+ 
+
+
+Plan de service de la solution / Parcours utilisateur
+
+
+
+
+ 
+  
+  Parcours client
+  
+  
+  Front office
+  
+  
+  Back office
+  
+  
+  Support
+  
+  
+  Preuves matérielles
+  
+ 
+ 
+  
+  Activer la carte
+  
+  
+  Assistant d’onbording (choix des objectifs&nbsp;:
+  budget, écologie)
+  
+  
+  Création du profil et paramétrage des seuils d’alerte
+  
+  
+  Base de données clients (historique d’achats)
+  
+  
+  Applications mobiles / carte physique ou virtuelle
+  (wallet du téléphone)
+  
+ 
+ 
+  
+  Passer sur le TPE
+  
+  
+  Paiement NFC
+  
+  
+  Analyse de l’achat en temps réel (catégorie, montant,
+  fréquence)
+  
+  
+  Plateforme d’API bancaire
+  
+  
+  Terminal de paiement
+  
+ 
+ 
+  
+  Évaluer l’achat
+  
+  
+  Notification instantanée («&nbsp;Vous avez acheté un
+  casque il y a 6 mois, en avez-vous besoin&nbsp;?&nbsp;»)
+  
+  
+  Algorithme de détéction d’achat abusif (doublons,
+  fréquence, besoin réel)
+  
+  
+  Moteur IA + règles de scoring + historique des achats
+  + API
+  
+  
+  Notification push / message sur l’écran de téléphone
+  
+ 
+ 
+  
+  Décider
+  
+  
+  Choix de l’utilisateur&nbsp;: confirmer, annuler ou
+  reporter l’achat
+  
+  
+  Enregistrement de la décision et mise à jour du score
+  de la consommation
+  
+  
+  Service client
+  
+  
+  Application mobile ou directement sur le TPE
+  («&nbsp;j’annule&nbsp;» / je «&nbsp;confirme&nbsp;»)
+  
+ 
+ 
+  
+  Proposer une alternative
+  
+  
+  Suggestion d’un produit éco-responsable dans la même
+  enseigne et dans la même gamme de prix (plus ou moins 15%) (reconditionné /
+  seconde main / éco-conçu)
+  
+  
+  Appel au catalogue partenaire, vérification du stock
+  et du prix
+  
+  
+  Base de données grâce aux API partenaires et aux
+  labels des produits
+  
+  
+  Notification avec lien / QR code vers le produit
+  alternatif plus vert
+  
+ 
+ 
+  
+  Bilan et éducation
+  
+  
+  Tableau de bord&nbsp;: économies réalisées, CO2 évité,
+  conseils personnalisés
+  
+  
+  Calculs des indicateurs (budget, empreinte carbone) et
+  génération des rapports
+  
+  
+  Système comptable + outils d’analyse de données + API
+  
+  
+  Relevé électronique / applications mobiles
+  
+ 
+
+
+
+
+&nbsp;
+
+&nbsp;
+
+Affinage concurrence&nbsp;:
+
+&nbsp;
+
+Concurrents directs / Analyse de la concurrence&nbsp;:
+
+1) Green Got : Green-Got propose une carte bancaire associée
+à une offre de finance responsable. Son application permet notamment de suivre
+l’impact environnemental des dépenses et l’entreprise met en avant le
+financement de projets écologiques.
+
+2) Hélios : Helios propose un compte de paiement avec carte
+et met en avant une finance excluant les énergies fossiles, ainsi que le
+financement de projets de transition écologique.
+
+3) Visa Eco Benefits : Visa propose des fonctionnalités de
+durabilité destinées aux établissements financiers partenaires, notamment des
+estimations de l’empreinte carbone des dépenses et des contenus de
+sensibilisation personnalisés.
+
+&nbsp;
+
+Concurrents indirects :
+
+1) Bankin’: Permet de mieux gérer son budget et comprendre
+ses habitudes de consommation. Bankin’ catégorise les dépenses, permet de
+suivre un budget et aide à distinguer les dépenses essentielles des dépenses
+non essentielles dans son analyse budgétaire.
+
+simon
+
+
+
+
+
+
+
+
+2) permet d’apprendre à gérer son
+argent dès le plus jeune âge. Kard propose des cartes de paiement et des outils
+de gestion de l’argent de poche, avec une dimension d’éducation financière et
+un accompagnement familial.
+
+3) Commons : permet de réduire
+les dépenses superflues et la consommation à fort impact environnemental.
+L’application permet de suivre les dépenses, de se fixer des objectifs de
+consommation, de limiter certains achats et d’observer des estimations
+d’émissions associées aux dépenses.
+
+&nbsp;
+
+&nbsp;
+
+Trim
+
+&nbsp;
+
+
+ 
+
+
+
+ 
+
+
+Analyse faisabilité 
+
+&nbsp;
+
+
+ 
+
+
+&nbsp;
+
+Carrousel 
+
+&nbsp;
+
+à
+PB principal&nbsp;: comment implémenter dans les TPE&nbsp;? 
+
+&nbsp;
+
+à
+Partenaires fournisseurs de TPE&nbsp;: Ingenico, Verifone, PAX, Sunmi,
+Castles, Smile&amp;Pay, Revolut Reader, SUM UP et Sunday.
+
+&nbsp;
+
+
+ 
+
+
+
+
+
+
+
+&nbsp;
+
+
+
+
+
